@@ -1,7 +1,7 @@
 # HackBout-2020
 
-# TEAM: RuntimeTerrorOnIoT
-# Team Number : 38
+TEAM: RuntimeTerrorOnIoT
+Team Number : 38
 
 
 # Website_RuntimeTerror README
@@ -36,3 +36,4 @@ Multiple tasks can be done directly from the website without having to interact 
 
 The custom built website was tailored specifically for the same, thus maximising the performance and user friendliness. More can be understood by visiting the website: https://smartfarmingoniot.github.io/runtimeTerrorOnIoT/index.html
 
+ The codes for the same are available above / on our Repository - SmartFarmingOnIoT ( https://github.com/SmartFarmingOnIoT/runtimeTerrorOnIoT )
